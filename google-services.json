@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975661003919",
+    "firebase_url": "https://wagba-ee198-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wagba-ee198",
+    "storage_bucket": "wagba-ee198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975661003919:android:52f59e12335d66309becfa",
+        "android_client_info": {
+          "package_name": "com.example.wagbaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975661003919-kt9k6uf73r6g2m5r8nuopbi8108md789.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLoBAYBZaGrQC6cVydK6pNukhYVOdbJkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975661003919-kt9k6uf73r6g2m5r8nuopbi8108md789.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

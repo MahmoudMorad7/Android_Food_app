@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">975661003919-kt9k6uf73r6g2m5r8nuopbi8108md789.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wagba-ee198-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">975661003919</string>
+    <string name="google_api_key" translatable="false">AIzaSyCLoBAYBZaGrQC6cVydK6pNukhYVOdbJkE</string>
+    <string name="google_app_id" translatable="false">1:975661003919:android:52f59e12335d66309becfa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCLoBAYBZaGrQC6cVydK6pNukhYVOdbJkE</string>
+    <string name="google_storage_bucket" translatable="false">wagba-ee198.appspot.com</string>
+    <string name="project_id" translatable="false">wagba-ee198</string>
+</resources>
